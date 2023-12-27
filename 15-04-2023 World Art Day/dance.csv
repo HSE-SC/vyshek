@@ -1,0 +1,16 @@
+﻿openalex_id;display_name;normalized_name;level;wikidata_id;parent_display_names;parent_ids
+https://openalex.org/C147446459;Dance;dance;2;https://www.wikidata.org/wiki/Q11639;Literature, Visual arts;https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C163286209;Performing arts;performing arts;2;https://www.wikidata.org/wiki/Q184485;Literature, Visual arts;https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C32795567;Modern dance;modern dance;3;https://www.wikidata.org/wiki/Q850130;Dance;https://openalex.org/C147446459
+https://openalex.org/C46544778;Contemporary dance;contemporary dance;3;https://www.wikidata.org/wiki/Q186035;Dance;https://openalex.org/C147446459
+https://openalex.org/C183920142;Choreography;choreography;3;https://www.wikidata.org/wiki/Q180856;Dance;https://openalex.org/C147446459
+https://openalex.org/C177002383;Ballet;ballet;3;https://www.wikidata.org/wiki/Q41425;Dance;https://openalex.org/C147446459
+https://openalex.org/C2777525546;Dance therapy;dance therapy;3;https://www.wikidata.org/wiki/Q1326190;Dance;https://openalex.org/C147446459
+https://openalex.org/C2776317494;SALSA;salsa;3;https://www.wikidata.org/wiki/Q217927;Dance, Greenwich, Performance art;https://openalex.org/C147446459, https://openalex.org/C2781231848, https://openalex.org/C554144382
+https://openalex.org/C526099995;Concert dance;concert dance;3;https://www.wikidata.org/wiki/Q1020618;Dance;https://openalex.org/C147446459
+https://openalex.org/C79990160;Folk dance;folk dance;3;https://www.wikidata.org/wiki/Q201022;Dance;https://openalex.org/C147446459
+https://openalex.org/C2779499894;Ballroom;ballroom;3;https://www.wikidata.org/wiki/Q805353;Dance, Greenwich, Performance art;https://openalex.org/C147446459, https://openalex.org/C2781231848, https://openalex.org/C554144382
+https://openalex.org/C92928450;Dance education;dance education;3;https://www.wikidata.org/wiki/Q5215234;Dance;https://openalex.org/C147446459
+https://openalex.org/C541257376;Performing arts education;performing arts education;4;https://www.wikidata.org/wiki/Q7168291;Arts in education, Visual arts education;https://openalex.org/C524692358, https://openalex.org/C3305159
+https://openalex.org/C503380767;Jazz dance;jazz dance;4;https://www.wikidata.org/wiki/Q936055;Concert dance;https://openalex.org/C526099995
+https://openalex.org/C3020798145;Ballet dancer;ballet dancer;4;https://www.wikidata.org/wiki/Q805221;Ballet;https://openalex.org/C177002383

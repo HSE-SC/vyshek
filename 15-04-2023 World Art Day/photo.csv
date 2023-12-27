@@ -1,0 +1,15 @@
+﻿openalex_id;display_name;normalized_name;level;wikidata_id;parent_display_names;parent_ids
+https://openalex.org/C61931021;High-speed photography;high speed photography;2;https://www.wikidata.org/wiki/Q1794511;Mechanics, Optics, Visual arts;https://openalex.org/C57879066, https://openalex.org/C120665830, https://openalex.org/C153349607
+https://openalex.org/C119657128;Photography;photography;2;https://www.wikidata.org/wiki/Q11633;Management, Visual arts;https://openalex.org/C187736073, https://openalex.org/C153349607
+https://openalex.org/C2779748590;Photo-essay;photo essay;2;https://www.wikidata.org/wiki/Q7187643;Archaeology, Art history, Visual arts;https://openalex.org/C166957645, https://openalex.org/C52119013, https://openalex.org/C153349607
+https://openalex.org/C2776374813;Pinhole camera;pinhole camera;2;https://www.wikidata.org/wiki/Q313742;Optics, Visual arts;https://openalex.org/C120665830, https://openalex.org/C153349607
+https://openalex.org/C2780478481;Large format;large format;2;https://www.wikidata.org/wiki/Q1189460;Optics, Visual arts;https://openalex.org/C120665830, https://openalex.org/C153349607
+https://openalex.org/C2778513438;Slow motion;slow motion;2;https://www.wikidata.org/wiki/Q1899749;Optics, Visual arts;https://openalex.org/C120665830, https://openalex.org/C153349607
+https://openalex.org/C2777526259;Flash (photography);flash;2;https://www.wikidata.org/wiki/Q221836;Optics, Visual arts;https://openalex.org/C120665830, https://openalex.org/C153349607
+https://openalex.org/C2776871301;Shutter;shutter;2;https://www.wikidata.org/wiki/Q691823;Mechanical engineering, Optics, Visual arts;https://openalex.org/C78519656, https://openalex.org/C120665830, https://openalex.org/C153349607
+https://openalex.org/C2777508684;Color photography;color photography;3;https://www.wikidata.org/wiki/Q166509;Photography;https://openalex.org/C119657128
+https://openalex.org/C120962342;History of photography;history of photography;3;https://www.wikidata.org/wiki/Q355472;Photography;https://openalex.org/C119657128
+https://openalex.org/C111471085;ActionScript;actionscript;3;https://www.wikidata.org/wiki/Q234657;Flash (photography);https://openalex.org/C2777526259
+https://openalex.org/C9529602;Photojournalism;photojournalism;3;https://www.wikidata.org/wiki/Q506858;Photography;https://openalex.org/C119657128
+https://openalex.org/C16282426;Digital photography;digital photography;3;https://www.wikidata.org/wiki/Q173095;Photography;https://openalex.org/C119657128
+https://openalex.org/C155650255;Non-photorealistic rendering;non photorealistic rendering;5;https://www.wikidata.org/wiki/Q259326;Computer facial animation;https://openalex.org/C138591656

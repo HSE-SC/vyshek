@@ -1,0 +1,22 @@
+﻿openalex_id;display_name;normalized_name;level;wikidata_id;parent_display_names;parent_ids
+https://openalex.org/C169085036;History of architecture;history of architecture;3;https://www.wikidata.org/wiki/Q8180985;Architecture;https://openalex.org/C123657996
+https://openalex.org/C2777364373;Architectural style;architectural style;3;https://www.wikidata.org/wiki/Q32880;Architecture;https://openalex.org/C123657996
+https://openalex.org/C162763945;Conceptual architecture;conceptual architecture;3;https://www.wikidata.org/wiki/Q4825467;Architecture;https://openalex.org/C123657996
+https://openalex.org/C207141826;Urbanism;urbanism;3;https://www.wikidata.org/wiki/Q59950;Architecture;https://openalex.org/C123657996
+https://openalex.org/C20348765;Architectural drawing;architectural drawing;3;https://www.wikidata.org/wiki/Q184784;Architecture;https://openalex.org/C123657996
+https://openalex.org/C2993994385;Islamic art;islamic art;3;https://www.wikidata.org/wiki/Q189594;Architecture, Islam;https://openalex.org/C123657996, https://openalex.org/C4445939
+https://openalex.org/C527588094;Byzantine studies;byzantine studies;3;https://www.wikidata.org/wiki/Q648154;Byzantine architecture, Empire;https://openalex.org/C104562893, https://openalex.org/C2778495208
+https://openalex.org/C108286215;Architectural technology;architectural technology;3;https://www.wikidata.org/wiki/Q4787070;Architecture;https://openalex.org/C123657996
+https://openalex.org/C2778544944;Architectural model;architectural model;3;https://www.wikidata.org/wiki/Q1352349;Architecture;https://openalex.org/C123657996
+https://openalex.org/C152095336;Architectural plan;architectural plan;3;https://www.wikidata.org/wiki/Q18965;Architecture;https://openalex.org/C123657996
+https://openalex.org/C205300905;Urban design;urban design;3;https://www.wikidata.org/wiki/Q63100;Architecture, Urban planning;https://openalex.org/C123657996, https://openalex.org/C49545453
+https://openalex.org/C2984241579;Architectural design;architectural design;3;https://www.wikidata.org/wiki/Q323611;Architecture;https://openalex.org/C123657996
+https://openalex.org/C60202869;Interior architecture;interior architecture;3;https://www.wikidata.org/wiki/Q1329946;Architecture, Interior design;https://openalex.org/C123657996, https://openalex.org/C173560066
+https://openalex.org/C553195128;Vernacular architecture;vernacular architecture;3;https://www.wikidata.org/wiki/Q930314;Architecture, Vernacular;https://openalex.org/C123657996, https://openalex.org/C2780386941
+https://openalex.org/C501911104;Islamic architecture;islamic architecture;3;https://www.wikidata.org/wiki/Q212940;Architecture, Islam;https://openalex.org/C123657996, https://openalex.org/C4445939
+https://openalex.org/C182930780;Ecological urbanism;ecological urbanism;4;https://www.wikidata.org/wiki/Q5333263;Urbanism;https://openalex.org/C207141826
+https://openalex.org/C112772881;Landscape urbanism;landscape urbanism;4;https://www.wikidata.org/wiki/Q4086938;Urbanism;https://openalex.org/C207141826
+https://openalex.org/C526067405;New Urbanism;new urbanism;4;https://www.wikidata.org/wiki/Q735901;Urbanism;https://openalex.org/C207141826
+https://openalex.org/C83646750;Capital (architecture);capital;2;https://www.wikidata.org/wiki/Q193893;Ancient history, Archaeology, Visual arts;https://openalex.org/C195244886, https://openalex.org/C166957645, https://openalex.org/C153349607
+https://openalex.org/C131323648;Classical antiquity;classical antiquity;2;https://www.wikidata.org/wiki/Q486761;Ancient history, Classics, Literature;https://openalex.org/C195244886, https://openalex.org/C74916050, https://openalex.org/C124952713
+https://openalex.org/C195295435;Pylon;pylon;2;https://www.wikidata.org/wiki/Q331317;Archaeology, Structural engineering, Visual arts;https://openalex.org/C166957645, https://openalex.org/C66938386, https://openalex.org/C153349607

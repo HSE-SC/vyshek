@@ -1,0 +1,36 @@
+﻿openalex_id;display_name;normalized_name;level;wikidata_id;parent_display_names;parent_ids
+https://openalex.org/C2778081389;Short Film;short film;2;https://www.wikidata.org/wiki/Q49084;Artificial intelligence, Literature, Visual arts;https://openalex.org/C154945302, https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C2992385100;Film festival;film festival;2;https://www.wikidata.org/wiki/Q220505;Art history, Media studies, Visual arts;https://openalex.org/C52119013, https://openalex.org/C29595303, https://openalex.org/C153349607
+https://openalex.org/C2993349003;Documentary film;documentary film;2;https://www.wikidata.org/wiki/Q93204;Art history, Media studies;https://openalex.org/C52119013, https://openalex.org/C29595303
+https://openalex.org/C2780458788;Hollywood;hollywood;2;https://www.wikidata.org/wiki/Q5882564;Art history, Genetics, Molecular biology;https://openalex.org/C52119013, https://openalex.org/C54355233, https://openalex.org/C153911025
+https://openalex.org/C502989409;Animation;animation;2;https://www.wikidata.org/wiki/Q11425;Computer graphics (images), Literature, Visual arts;https://openalex.org/C121684516, https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C2777410504;Videography;videography;2;https://www.wikidata.org/wiki/Q2662841;Advertising, Visual arts;https://openalex.org/C112698675, https://openalex.org/C153349607
+https://openalex.org/C17057217;Screenwriting;screenwriting;2;https://www.wikidata.org/wiki/Q3429919;Literature, Visual arts;https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C84079672;Indie film;indie film;2;https://www.wikidata.org/wiki/Q459290;Literature, Media studies, Visual arts;https://openalex.org/C124952713, https://openalex.org/C29595303, https://openalex.org/C153349607
+https://openalex.org/C100991257;Cinematography;cinematography;2;https://www.wikidata.org/wiki/Q590870;Optics, Visual arts;https://openalex.org/C120665830, https://openalex.org/C153349607
+https://openalex.org/C166142869;Video production;video production;2;https://www.wikidata.org/wiki/Q60061622;Literature, Multimedia, Visual arts;https://openalex.org/C124952713, https://openalex.org/C49774154, https://openalex.org/C153349607
+https://openalex.org/C59430087;Film director;film director;3;https://www.wikidata.org/wiki/Q2526255;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C2776041537;National cinema;national cinema;3;https://www.wikidata.org/wiki/Q2973200;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C54040653;Film industry;film industry;3;https://www.wikidata.org/wiki/Q1415395;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C69369342;Computer animation;computer animation;3;https://www.wikidata.org/wiki/Q1401416;Animation;https://openalex.org/C502989409
+https://openalex.org/C115359074;Video art;video art;3;https://www.wikidata.org/wiki/Q682010;Performance art;https://openalex.org/C554144382
+https://openalex.org/C163999200;Film genre;film genre;3;https://www.wikidata.org/wiki/Q201658;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C2992486779;Feature film;feature film;3;https://www.wikidata.org/wiki/Q24869;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C155726013;Film analysis;film analysis;3;https://www.wikidata.org/wiki/Q5448987;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C142437206;Film theory;film theory;3;https://www.wikidata.org/wiki/Q28793;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C193886612;French New Wave;french new wave;3;https://www.wikidata.org/wiki/Q193541;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C2779859823;Filmography;filmography;3;https://www.wikidata.org/wiki/Q1371849;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C2992405154;American film;american film;3;https://www.wikidata.org/wiki/Q380675;Hollywood, Movie theater;https://openalex.org/C2780458788, https://openalex.org/C519580073
+https://openalex.org/C58348228;Auteur theory;auteur theory;3;https://www.wikidata.org/wiki/Q788514;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C137800194;Interpolation (computer graphics);interpolation;3;https://www.wikidata.org/wiki/Q11713455;Animation, Frame (networking), Image (mathematics), Motion (physics);https://openalex.org/C502989409, https://openalex.org/C126042441, https://openalex.org/C115961682, https://openalex.org/C104114177
+https://openalex.org/C68389820;Filmmaking;filmmaking;3;https://www.wikidata.org/wiki/Q932586;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C170494952;Film studies;film studies;3;https://www.wikidata.org/wiki/Q1660187;Movie theater;https://openalex.org/C519580073
+https://openalex.org/C138591656;Computer facial animation;computer facial animation;4;https://www.wikidata.org/wiki/Q5157538;Computer animation;https://openalex.org/C69369342
+https://openalex.org/C90697248;Character animation;character animation;4;https://www.wikidata.org/wiki/Q1062896;Computer animation;https://openalex.org/C69369342
+https://openalex.org/C44710944;Skeletal animation;skeletal animation;5;https://www.wikidata.org/wiki/Q1813564;Computer facial animation;https://openalex.org/C138591656
+https://openalex.org/C60851780;Interactive skeleton-driven simulation;interactive skeleton driven simulation;5;https://www.wikidata.org/wiki/Q17056736;Computer facial animation;https://openalex.org/C138591656
+https://openalex.org/C155650255;Non-photorealistic rendering;non photorealistic rendering;5;https://www.wikidata.org/wiki/Q259326;Computer facial animation;https://openalex.org/C138591656
+https://openalex.org/C3020113354;Special effects;special effects;2;https://www.wikidata.org/wiki/Q381243;Computer graphics (images), Multimedia, Visual arts;https://openalex.org/C121684516, https://openalex.org/C49774154, https://openalex.org/C153349607
+https://openalex.org/C2779084582;Reality television;reality television;2;https://www.wikidata.org/wiki/Q182415;Advertising, Media studies, Visual arts;https://openalex.org/C112698675, https://openalex.org/C29595303, https://openalex.org/C153349607
+https://openalex.org/C523419034;Drama;drama;2;https://www.wikidata.org/wiki/Q25372;Literature, Visual arts;https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C548253320;Comedy;comedy;2;https://www.wikidata.org/wiki/Q157443;Literature, Visual arts;https://openalex.org/C124952713, https://openalex.org/C153349607

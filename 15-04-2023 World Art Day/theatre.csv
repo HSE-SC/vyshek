@@ -1,0 +1,27 @@
+﻿openalex_id;display_name;normalized_name;level;wikidata_id;parent_display_names;parent_ids
+https://openalex.org/C530479602;Opera;opera;2;https://www.wikidata.org/wiki/Q1344;Art history, Literature, Visual arts;https://openalex.org/C52119013, https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C2910391586;Rehearsing;rehearsing;2;https://www.wikidata.org/wiki/Q1751775;Visual arts;https://openalex.org/C153349607
+https://openalex.org/C187745722;Dramaturgy;dramaturgy;2;https://www.wikidata.org/wiki/Q492537;Aesthetics, Literature, Visual arts;https://openalex.org/C107038049, https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C24253811;Stanislavski's system;stanislavski s system;2;https://www.wikidata.org/wiki/Q1089649;Aesthetics, Art history, Literature;https://openalex.org/C107038049, https://openalex.org/C52119013, https://openalex.org/C124952713
+https://openalex.org/C2776421488;Greek tragedy;greek tragedy;2;https://www.wikidata.org/wiki/Q34620;Classics, Literature;https://openalex.org/C74916050, https://openalex.org/C124952713
+https://openalex.org/C193798670;Ancient Greece;ancient greece;2;https://www.wikidata.org/wiki/Q11772;Ancient history, Archaeology, Classics;https://openalex.org/C195244886, https://openalex.org/C166957645, https://openalex.org/C74916050
+https://openalex.org/C528414297;Ancient Rome;ancient rome;2;https://www.wikidata.org/wiki/Q1747689;Ancient history, Archaeology, Classics;https://openalex.org/C195244886, https://openalex.org/C166957645, https://openalex.org/C74916050
+https://openalex.org/C554144382;Performance art;performance art;2;https://www.wikidata.org/wiki/Q213156;Art history;https://openalex.org/C52119013
+https://openalex.org/C13417543;Political theatre;political theatre;2;https://www.wikidata.org/wiki/Q442725;Literature, Media studies, Visual arts;https://openalex.org/C124952713, https://openalex.org/C29595303, https://openalex.org/C153349607
+https://openalex.org/C523419034;Drama;drama;2;https://www.wikidata.org/wiki/Q25372;Literature, Visual arts;https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C2908565550;Tragicomedy;tragicomedy;2;https://www.wikidata.org/wiki/Q192881;Literature;https://openalex.org/C124952713
+https://openalex.org/C2110046;Theatre director;theatre director;2;https://www.wikidata.org/wiki/Q3387717;Literature, Visual arts;https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C74039378;Presentational and representational acting;presentational and representational acting;2;https://www.wikidata.org/wiki/Q7240997;Aesthetics, Linguistics;https://openalex.org/C107038049, https://openalex.org/C41895202
+https://openalex.org/C163286209;Performing arts;performing arts;2;https://www.wikidata.org/wiki/Q184485;Literature, Visual arts;https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C195547243;Scenography;scenography;2;https://www.wikidata.org/wiki/Q737201;Art history, Visual arts;https://openalex.org/C52119013, https://openalex.org/C153349607
+https://openalex.org/C2776284039;Kabuki;kabuki;2;https://www.wikidata.org/wiki/Q199701;Literature, Visual arts;https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C548253320;Comedy;comedy;2;https://www.wikidata.org/wiki/Q157443;Literature, Visual arts;https://openalex.org/C124952713, https://openalex.org/C153349607
+https://openalex.org/C140676016;Italian opera;italian opera;3;https://www.wikidata.org/wiki/Q785522;Musical, Opera;https://openalex.org/C558565934, https://openalex.org/C530479602
+https://openalex.org/C183920142;Choreography;choreography;3;https://www.wikidata.org/wiki/Q180856;Dance;https://openalex.org/C147446459
+https://openalex.org/C544747889;Theatrical production;theatrical production;3;https://www.wikidata.org/wiki/Q7777570;Drama;https://openalex.org/C523419034
+https://openalex.org/C177002383;Ballet;ballet;3;https://www.wikidata.org/wiki/Q41425;Dance;https://openalex.org/C147446459
+https://openalex.org/C2992722733;Opera house;opera house;3;https://www.wikidata.org/wiki/Q153562;Opera;https://openalex.org/C530479602
+https://openalex.org/C540679656;Theatre studies;theatre studies;3;https://www.wikidata.org/wiki/Q960543;Drama;https://openalex.org/C523419034
+https://openalex.org/C544874408;Postmodern theatre;postmodern theatre;3;https://www.wikidata.org/wiki/Q7234386;Postmodernism;https://openalex.org/C509535802
+https://openalex.org/C551624427;Theatre criticism;theatre criticism;4;https://www.wikidata.org/wiki/Q2416230;Literary science;https://openalex.org/C505900562
+https://openalex.org/C3020798145;Ballet dancer;ballet dancer;4;https://www.wikidata.org/wiki/Q805221;Ballet;https://openalex.org/C177002383
