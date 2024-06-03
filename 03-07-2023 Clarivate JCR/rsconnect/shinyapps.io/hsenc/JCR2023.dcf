@@ -1,0 +1,13 @@
+name: JCR2023
+title: JCR2023
+username:
+account: hsenc
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9393756
+bundleId: 7413973
+url: https://hsenc.shinyapps.io/JCR2023/
+when: 1688380459.20674
+lastSyncTime: 1688380459.20677
+asMultiple: FALSE
+asStatic: FALSE
