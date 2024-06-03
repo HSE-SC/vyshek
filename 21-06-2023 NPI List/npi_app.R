@@ -1,4 +1,4 @@
-
+###визуализации к посту https://t.me/HQhse/254
 
 library(dplyr)
 library(data.table)
