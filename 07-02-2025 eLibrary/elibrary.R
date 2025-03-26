@@ -1,3 +1,5 @@
+###визуализации к посту https://t.me/HQhse/484
+
 library(dplyr)
 library(tibble)
 library(data.table)
